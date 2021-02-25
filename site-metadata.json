@@ -3,7 +3,7 @@
     "header": {
         "title": "Bradsi",
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Libris logo",
+        "logo_img_alt": "Bradsi",
         "has_nav": true,
         "nav_links": [
             {
