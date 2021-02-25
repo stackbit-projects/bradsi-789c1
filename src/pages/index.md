@@ -31,10 +31,9 @@ sections:
             url: /blog
             style: link
       - title: Accounting Basics
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          Learn the basics of Accounting. Heavily influenced and based on the
+          AAT Foundation curriculum.
         actions:
           - label: Learn More
             url: /style-guide
