@@ -5,10 +5,7 @@ sections:
     type: section_hero
     title: Accounting & Finance
     image: images/5.jpg
-    actions:
-      - label: Get Started
-        url: /docs
-        style: primary
+    actions: []
   - section_id: features
     type: section_grid
     col_number: three
