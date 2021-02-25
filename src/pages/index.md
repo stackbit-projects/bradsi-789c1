@@ -36,7 +36,7 @@ sections:
           AAT Foundation curriculum.
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /accounting-basics
             style: link
   - section_id: text-img
     type: section_content
