@@ -17,10 +17,8 @@ sections:
     col_number: three
     grid_items:
       - title: Excel Basics
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: |
+          Learn the basics of Excel.
         actions:
           - label: Get Started
             url: /docs
