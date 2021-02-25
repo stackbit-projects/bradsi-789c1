@@ -35,7 +35,7 @@ sections:
           Learn the basics of Accounting. Heavily influenced and based on the
           AAT Foundation curriculum.
         actions:
-          - label: Learn More
+          - label: Get Started
             url: /accounting-basics
             style: link
   - section_id: text-img
