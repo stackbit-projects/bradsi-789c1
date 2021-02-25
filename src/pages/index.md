@@ -21,7 +21,7 @@ sections:
           Learn the basics of Excel.
         actions:
           - label: Get Started
-            url: /docs
+            url: /excel-basics
             style: link
       - title: Blog
         content: >-
