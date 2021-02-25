@@ -24,9 +24,8 @@ sections:
             url: /excel-basics
             style: link
       - title: Blog
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: |
+          Accounting & finance related blog posts.
         actions:
           - label: View Posts
             url: /blog
